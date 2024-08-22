@@ -1,0 +1,7 @@
+Scenario1: Chennai to Madurai
+Scenario2: Madurai to Virudhunagar
+Scenario3: America to Delhi
+Scenario4: Bangaluru to Mumbai
+Scenario5: Franch to Brazil
+Scenario 6: Theni to Gujarat
+
